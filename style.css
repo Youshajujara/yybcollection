@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Navbar */
+
+.bg-custom-nav {
+    background-color: rgb(0, 0, 0) !important;
+}
+.navbar-brand {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+
+.nav-link {
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+.dropdown-item:hover {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Crousel */
+
+.carousel {
+    margin-top: 0px;
+}
+
+/* card */
+
+.card{
+    margin-top: 10px;
+}
+
+
+
+/* Marquee */
+
+.marquee {
+    font-size: 15px;
+}
+
+/* New Arrival */
+
+.head-1 {
+    font-size: 70px !important;
+    font-weight: bolder !important;
+    color: beige !important;
+    font-family: serif;
+}
+
+.sub-head {
+    font-size: 50px !important;
+    font-weight: bold !important;
+    color: pink !important;
+    font-family: serif;
+}
+
+.bg-custom {
+    /* background-color: #7f7f7f !important;  */
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Footer */
+
+.bg-footer {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.btn-custom {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: beige !important;
+    /* background-color: #fdbfc9; */
+}
+
+.social-media-head {
+    font-size: 30px;
+    color: beige !important;
+}
+
+.top {
+    position: fixed;
+    right: 3%;
+    bottom: 1%;
+    color: beige !important;
+}
+
+.socialicons {
+    color: white !important;
+}
+
+.socialicons:hover{
+    color: beige !important;
+}
+
+.copy {
+    background-color: red;
+    padding: 5px 0px;
+    text-align: center;
+    color: beige;
+    font-size: 16px !important;
+}
+
+/* About page */
+
+.about {
+    margin-top: 40px !important;
+}
+
+.about-para {
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.head-1-about {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+/* Contact Us */
+
+
+.table {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.note {
+    margin: 30px;
+}
+
+.p{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+
+.a {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: pink;
+}
+
+
+/* Order form */
+
+.form {
+    padding: 10px;
+}
+
+.form
+
+.order-form {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
+/* Order Confirmed page */
+
+#contact {
+    margin-top: 0px !important;
+}
+
+.thankyou {
+    padding-top: 100px !important;
+    padding-bottom: 40px !important;
+}
+
+.order-confirm {
+    font-weight: bolder;
+    font-size: 250%;
+}
+
+.order-confirm-2 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+
+.order-confirm-3 {
+    font-weight: bold;
+    font-size: 150%;
+}
+ 
+.cont {
+    text-decoration: none !important;
+    color: yellow;
+}
+
+.cont:hover {
+    color: red;
+}
+
+.go-to-home {
+    text-decoration: none !important;
+    color: silver;
+}
+
+.go-to-home:hover {
+    color: greenyellow;
+    text-decoration: underline !important;
+}
